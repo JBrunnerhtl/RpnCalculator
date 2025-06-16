@@ -68,6 +68,7 @@ This project is licensed under the MIT License.
 ## Error
 
 Little error with popup after you clicked the checkbox if you have an invilad graph input
+
 ---
 
 Let me know if you want it to include additional sections (e.g., screenshots, planned features, localization) or if you want the README in a different format!
